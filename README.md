@@ -10,6 +10,9 @@ Which of the following statements about a RecyclerView is false? Choose one.
 4) You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
 
 
+4
+
+
 ### Question 2
 
 Which of the following is the primary component you need to provide to an adapter a View item and its position within a RecyclerView? Choose one.
@@ -20,6 +23,9 @@ Which of the following is the primary component you need to provide to an adapte
 4) AppCompatActivity
 
 
+
+3
+
 ### Question 3
 
 Which interface do you need to implement in order to listen and respond to user clicks in a RecyclerView? Choose one.
@@ -28,3 +34,7 @@ Which interface do you need to implement in order to listen and respond to user 
 2) RecyclerView.Adapter
 3) RecyclerView.ViewHolder
 4) View.OnKeyListener
+
+
+
+1
